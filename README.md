@@ -1,7 +1,5 @@
 # Editors
 My Editor Setups
 
-# VS Code 2022 File
-- https://code.visualstudio.com/updates/v1_70
-
-- 
+# VS Code version
+- https://code.visualstudio.com/updates/v1_78
