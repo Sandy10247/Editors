@@ -1,0 +1,26 @@
+{
+    "extensions.autoUpdate": false,
+    "update.mode": "none",
+    "update.showReleaseNotes": false,
+    "extensions.autoCheckUpdates": false,
+    "editor.fontSize": 16,
+    "editor.stickyScroll.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "go.formatTool": "gofmt",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.console.fontSize": 15,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "workbench.statusBar.visible": false,
+    "extensions.ignoreRecommendations": true,
+    "gopls": {
+        "ui.semanticTokens": true,
+        "formatting.gofumpt": true
+    },
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "golang.go",
+    },
+}
